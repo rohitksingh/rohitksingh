@@ -1,6 +1,6 @@
 ### Sun Devils 🔱
 
-I am Graduate Student at [Arizona State University](https://www.asu.edu/). I work as Psyche Reseach Aide at [NASA Mission to Psyche](https://psyche.asu.edu/) program at ASU. I have made Android Application for them and I have made Review Webapp which helps reviewers from ASU, NASA JPL select undergraduate interns for [Psyche Inspired](https://psyche.asu.edu/get-involved/psyche-inspired/) Program.    
+I am a graduate student at [Arizona State University](https://www.asu.edu/). I work as a Psyche Reseach Aide at [NASA Mission to Psyche](https://psyche.asu.edu/) program at ASU. I have made Android application for them and I have made Review Webapp which helps reviewers from ASU, NASA JPL select undergraduate interns for [Psyche Inspired](https://psyche.asu.edu/get-involved/psyche-inspired/) Program.    
 
 I can probably talk/code Android application all day long without coffee. 
 <br><br>
