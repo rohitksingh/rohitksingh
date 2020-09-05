@@ -1,6 +1,6 @@
 ### Sun Devils 🔱
 
-I am a graduate student at [Arizona State University](https://www.asu.edu/). I work as Psyche Reseach Aide at [NASA Mission to Psyche](https://psyche.asu.edu/) program at ASU. I have created NASA Psyche Android app which engages public with the Psyche mission. I have also revamped Psyche Review app which helps reviewers from ASU, NASA JPL select undergraduate interns for [Psyche Inspired](https://psyche.asu.edu/get-involved/psyche-inspired/) Program.    
+I am a graduate student at [Arizona State University](https://www.asu.edu/). I work as Psyche Reseach Aide at [NASA Mission to Psyche](https://psyche.asu.edu/) program at ASU. I have created NASA Psyche Android app which engages public with the Psyche mission. I have also revamped Psyche Review app which helps reviewers from ASU, NASA JPL select incoming undergraduate interns for [Psyche Inspired](https://psyche.asu.edu/get-involved/psyche-inspired/) Program.    
 
 I can probably talk/code Android application all day long without coffee.         
 [This](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle) is the most facinating thing I have seen in Software Design.  
