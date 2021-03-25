@@ -13,6 +13,9 @@ I can probably talk/code Android application all day long without coffee.
 <a href="https://medium.com/@rohitksingh">
 <img height="50" width="50" src="https://user-images.githubusercontent.com/11274840/91214419-e4385980-e6c7-11ea-9983-37fab4a04c3c.png">
 </a>
+<a href="https://rohitksingh.github.io/">
+<img height="50" width="50" src="https://user-images.githubusercontent.com/11274840/112452560-fccb2980-8d13-11eb-8a4d-7d091a372b15.gif">
+</a>
 <a href="https://play.google.com/store/apps/developer?id=Rohit+Singh"> 
 <img height="50" width="50" src="https://user-images.githubusercontent.com/11274840/91215015-bb649400-e6c8-11ea-8de2-cd42e42ff861.png">
 </a>
