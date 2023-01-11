@@ -2,7 +2,7 @@
 
 I graduated from [Arizona State University](https://www.asu.edu/) back in 2019. 
 
-I am Senior Application Developer at [ADP Innovation Labs](). Previously I worked as Psyche Research Aide at [NASA Mission to Psyche](https://psyche.asu.edu/) program at ASU.    
+I am Senior Application Developer at [ADP Innovation Labs](). Previously, I worked as Psyche Research Aide at [NASA Mission to Psyche](https://psyche.asu.edu/) program at ASU.    
     
 I can probably talk/code Android application all day long without coffee.   
 
